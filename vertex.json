@@ -1,0 +1,147 @@
+[
+    {
+        "title": "JT-262HS,JT-263HS Back Pocket Hamming Machine",
+        "shortDescription": "Automatic pocket hemming machine for jeans and similar, two needles, lock stitch, adjustable folder",
+        "description": "The Jam International Sewing Machine JT-262HS is a high-tech industrial sewing machine designed primarily for the clothing industry. It is part of Jam International's lineup, which specializes in machines for denim, casual wear, and other fabric types. The JT-262HS model is built for durability and precise operation, making it suitable for tasks that require consistent and high-quality stitching, particularly in large-scale garment production settings.",
+        "specification": [
+            "Two-Needle, Lock Stitch Mechanism: Provides strong, durable stitching, perfect for high-stress areas like jeans pockets, ensuring a neat, secure finish that prevents fabric unraveling.",
+            "Adjustable Folder: Offers flexibility in hem size and positioning, making the machine adaptable to various fabric types and pocket designs.",
+            "High-Speed Automation: Automates the hemming process, reducing manual labor, increasing efficiency, and ensuring consistent quality across all garments.",
+            "Fabric Compatibility: Designed for heavy fabrics like jeans, it handles thicker materials without compromising stitch quality, essential for denim manufacturers."
+        ],
+        "images": "https://i.ibb.co.com/3mMVR2V/jam1.png",
+        "category": "jam international"
+
+    },
+    {
+        "title": "JT-862H Single Head Automatic Back Pocket Attachment Machine",
+        "shortDescription": "A high-speed automatic machine designed for efficient back pocket attachment on jeans and similar garments, featuring advanced automation and precision stitching capabilities.",
+        "description": "The JT-862H is an automatic machine tailored for attaching back pockets on denim and similar heavy fabrics. Equipped with a single-head sewing system, it offers high-speed, precise lock stitching, ensuring durability and quality. The machine's advanced automation reduces manual labor, while the pneumatic system allows for quick changes of pocket jigs, ensuring consistent production quality. With easy control via a touch screen panel and compatible with different fabric types, it enhances productivity in the textile manufacturing industry.",
+        "specification": [
+            "Sewing Mechanism: Single-head, two-needle lock stitch for high-strength stitching, ideal for denim and heavy fabrics.",
+            "Pocket JIG System: Pneumatic release allows for fast and easy jig changes to accommodate various pocket designs.",
+            "Speed: Capable of reaching sewing speeds up to 3000 RPM for fast, efficient production.",
+            "Control Interface: User-friendly JAM touch screen panel for easy machine operation and setting adjustments APPAREL VIEWS JA INTERNATIONAL"
+        ],
+        "images": "https://i.ibb.co.com/4ZVC5Yv/jam2.png",
+        "category": "jam international"
+    },
+    {
+        "title": "JT-882H Double Head Automatic Pocket Setter for Jeans and Similar Fabrics",
+        "shortDescription": "The JT-882H is an advanced automatic machine with two independent sewing heads, ideal for efficiently attaching back pockets on denim and similar fabrics. It ensures high productivity and quality, making it a preferred choice in industrial sewing.",
+        "description": "The JT-882H is a high-performance automatic machine, designed specifically for attaching back pockets to jeans and similar fabrics. It features two independent sewing heads, allowing simultaneous stitching of two pockets, thus enhancing productivity. The machine is equipped with a patented JIG system for easy setup, and it offers options for automatic stacking and unloading. This makes it an ideal solution for mass production environments where speed, precision, and reliability are critical. It can also be integrated with Industry 4.0 systems for advanced production control.",
+        "specification": [
+            "Dual Independent Sewing Heads: Allows two pockets to be sewn simultaneously, optimizing speed and efficiency.",
+            "Patented JIG System: Enables quick and easy setup, reducing downtime and ensuring consistent results.",
+            "Automatic Stacking and Unloading: Provides smooth handling of garments, contributing to faster production cycles.",
+            "Industry 4.0 Ready: Can be connected to advanced production management systems for real-time monitoring and control"
+        ],
+        "images": "https://i.ibb.co.com/3FkCb9j/jam3.png",
+        "category": "jam international"
+    },
+    {
+        "title": " JT-132G Back Pocket Decorative Stitch Machine",
+        "shortDescription": "The JT-132G is an advanced automatic machine designed for decorative stitching on back pockets, providing precision and customization options ideal for jeans and similar fabrics.",
+        "description": "The JT-132G back pocket decorative stitch machine is engineered for precise and customizable decorative stitching on jeans pockets. Equipped with programmable features and automatic functions, this machine ensures high efficiency and consistent stitching quality. It features a JUKI lockstitch head and stepper motor-controlled movements, allowing for flexibility in pattern design. This model is perfect for denim manufacturers seeking efficient production without sacrificing design quality.",
+        "specification": [
+            "Sewing Head: JUKI lockstitch with shuttle hook and thread trimmer for clean finishes.",
+            "Movement System: X and Y axes driven by stepper motors for precise pattern execution.",
+            "Automatic Stacker: Preloads pockets while previous ones are stitched, ensuring continuous operation.",
+            "Work Area: X = 220 mm, Y = 100 mm, allowing for a wide range of decorative patterns."
+        ],
+        "images": "https://i.ibb.co.com/Y2szCSb/jam4.png",
+        "category": "jam international"
+    },
+    {
+        "model": "JT-121G",
+        "title": "JT-121G J-Stitch Machine",
+        "shortDescription": "Automatic machine for precise fly stitching with programmable features.",
+        "description": "Designed for high-speed fly stitching, ideal for various garments.",
+        "specifications": {
+          "Sewing Speed": "2700 stitches per minute",
+          "Stitch Type": "Lock stitch",
+          "Power Supply": "220V AC",
+          "Max Stitch Length": "5 mm"
+        },
+        "machineEquipped": [
+          "Automatic thread trimming system for consistent stitch quality.",
+          "Adjustable stitch length and width for versatile applications.",
+          "Safety features to prevent accidents during operation.",
+          "User-friendly control panel for easy programming and adjustments."
+        ],
+        "images": "https://i.ibb.co.com/LhCY1tN/jam5.png",
+        "category": "jam international"
+      },
+      {
+        "model": "JT-908A",
+        "title": "JT-908A Feed of the Arm Unit",
+        "shortDescription": "Advanced feed of the arm unit with differential feed dogs.",
+        "description": "Optimizes handling of stretchy fabrics with precision and control.",
+        "specifications": {
+          "Sewing Speed": "3000 stitches per minute",
+          "Differential Feed Ratio": "1:2 to 2:1",
+          "Power Supply": "220V AC",
+          "Max Stitch Length": "4 mm"
+        },
+        "machineEquipped": [
+          "Built-in differential feed for enhanced fabric handling capabilities.",
+          "Adjustable presser foot pressure for various fabric thicknesses.",
+          "Automatic lubrication system for smooth operation and maintenance.",
+          "Heavy-duty construction to withstand high-volume production demands."
+        ]
+      },
+      {
+        "model": "JT-801P",
+        "title": "JT-801P Automatic Belt Loop Setter Machine",
+        "shortDescription": "Efficient automatic machine for setting belt loops on denim.",
+        "description": "Streamlines belt loop application, boosting production efficiency significantly.",
+        "specifications": {
+          "Sewing Speed": "2500 stitches per minute",
+          "Stitch Type": "Lock stitch",
+          "Power Supply": "220V AC",
+          "Max Fabric Thickness": "8 mm"
+        },
+        "machineEquipped": [
+          "Automatic positioning system for precise belt loop application.",
+          "User-friendly interface for easy operation and adjustments.",
+          "High-speed stitching capabilities for increased production output.",
+          "Durable construction for long-lasting performance in production environments."
+        ]
+      },
+      {
+        "model": "JT-418",
+        "title": "JT-418 Automatic Continuous Waistband Machine",
+        "shortDescription": "Machine designed for automatic waistband application on jeans.",
+        "description": "Ensures consistent quality and high speeds for waistband application.",
+        "specifications": {
+          "Sewing Speed": "2200 stitches per minute",
+          "Waistband Width Range": "30 mm to 50 mm",
+          "Power Supply": "220V AC",
+          "Max Fabric Thickness": "8 mm"
+        },
+        "machineEquipped": [
+          "Adjustable waistband guide for precise application of waistbands.",
+          "Automatic fabric feed system for efficient operation and accuracy.",
+          "Integrated cutting system for streamlined production processes.",
+          "Robust frame construction for stability during high-speed operation."
+        ]
+      },
+      {
+        "model": "JT-115G",
+        "title": "JT-115G Electronic Programmable Repairing Stitch Machine",
+        "shortDescription": "Electronic machine offering programmable stitches for versatile garment repairs.",
+        "description": "Ideal for various repairs with multiple programmable stitch patterns.",
+        "specifications": {
+          "Max Stitch Length": "5 mm",
+          "Sewing Speed": "2000 stitches per minute",
+          "Memory Capacity": "Up to 50 different patterns",
+          "Power Supply": "220V AC"
+        },
+        "machineEquipped": [
+          "User-friendly LCD display for easy programming and operation.",
+          "Programmable stitch patterns for diverse repair needs and applications.",
+          "Automatic thread cutter for quick and efficient stitching.",
+          "Foot pedal control for hands-free operation during repairs."
+        ]
+      }
+]
