@@ -16,7 +16,9 @@
         "Thread trimmer for quick and easy thread management."
       ],
       "images": "https://i.ibb.co.com/3mMVR2V/jam1.png",
-      "category": "jam_international"
+      "category": "jam_international",
+      "video":"",
+      "popularCategory":""
     },
     {
       "title": "JT-263HS Back Pocket Hemming Machine",
@@ -35,7 +37,9 @@
         "Finishing machine for final touches on garments."
       ],
       "images": "https://i.ibb.co.com/3mMVR2V/jam1.png",
-      "category": "jam_international"
+      "category": "jam_international",
+      "video":"",
+      "popularCategory":""
     },
     {
       "title": "JT-862H Single Head Automatic Back Pocket Attachment Machine",
@@ -54,11 +58,12 @@
         "Pressing machine for creating smooth finishes."
       ],
       "images": "https://i.ibb.co.com/4ZVC5Yv/jam2.png",
-      "category": "jam_international"
+      "category": "jam_international",
+      "video":"",
+      "popularCategory":""
     },
     {
-      "id": "jt-882h",
-      "title": "JT-882H Double Head Automatic Pocket Setter",
+      "title": "JT-882H Double Head Automatic Back Pocket Attach",
       "shortDescription": "Double head automatic pocket setter designed for jeans, enhancing speed and precision in pocket application processes.",
       "description": "The JT-882H features a double head design, allowing for simultaneous pocket application on jeans and similar fabrics. This machine significantly increases production efficiency, providing precise pocket placements and high-quality stitching. With adjustable settings for various pocket styles, it is perfect for high-volume garment manufacturers aiming to boost productivity without compromising on stitch quality.",
       "specifications": {
@@ -74,7 +79,9 @@
         "Folding machine for preparing fabric for sewing."
       ],
       "images": "https://i.ibb.co.com/3FkCb9j/jam3.png",
-      "category": "jam_international"
+      "category": "jam_international",
+      "video":"",
+      "popularCategory":"popular"
     },
     {
       "id": "jt-132g",
@@ -94,7 +101,9 @@
         "Overlock machine for clean fabric edges."
       ],
       "images": "https://i.ibb.co.com/Y2szCSb/jam4.png",
-      "category": "jam_international"
+      "category": "jam_international",
+      "video":"",
+      "popularCategory":""
     },
     {
       "id": "jt-121g",
@@ -114,7 +123,9 @@
         "Thread trimmer for efficient thread management."
       ],
       "images": "https://i.ibb.co.com/LhCY1tN/jam5.png",
-      "category": "jam_international"
+      "category": "jam_international",
+      "video":"",
+      "popularCategory":""
     },
     {
       "title": "JT-908A Feed of the Arm Unit",
@@ -133,7 +144,9 @@
         "Binding machine for finishing raw edges smoothly."
       ],
       "images": "https://i.ibb.co.com/qJp1vXy/jam6.png",
-      "category": "jam_international"
+      "category": "jam_international",
+      "video":"",
+      "popularCategory":""
     },
     {
       "title": "JT-801P Automatic Belt Loop Setter Machine",
@@ -152,7 +165,9 @@
         "Finishing machine for quality checks and final touches."
       ],
       "images": "https://i.ibb.co.com/sHbrMHC/jam7.png",
-      "category": "jam_international"
+      "category": "jam_international",
+      "video":"",
+      "popularCategory":""
     },
     {
       "title": "JT-418 Automatic Continuous Waistband Machine for Jeans and Similar",
@@ -172,7 +187,9 @@
         "Pressing machine for finishing waistband edges smoothly."
       ],
       "images": "https://i.ibb.co.com/9HH4c5H/jam8.png",
-      "category": "jam_international"
+      "category": "jam_international",
+      "video":"",
+      "popularCategory":""
     },
     {
       "title": "JT-115G Electronic Programmable Repairing Stitch Machine",
@@ -191,7 +208,9 @@
         "Finishing machine for final quality checks."
       ],
       "images": "https://i.ibb.co.com/6ZNmsgR/jam9.png",
-      "category": "jam_international"
+      "category": "jam_international",
+      "video":"",
+      "popularCategory":""
     },
     {
         "title": "SQ7803LR/PF-HB/AF/DD/PT Slide Seam Machine for Jeans",
@@ -210,7 +229,9 @@
           "Pressing machine for smoothing fabric and seams efficiently."
         ],
         "image": "https://i.ibb.co.com/VmhNXpN/kansai1.png",
-        "category": "kansai"
+        "category": "kansai",
+        "video":"",
+      "popularCategory":""
       },
       {
         "title": "NC1103GALK-UTA T-Shirt Bottom Hemming Machine",
@@ -229,7 +250,9 @@
           "Folding machine for preparing fabric for hemming."
         ],
         "image": "https://i.ibb.co.com/Mpn2Mh7/kansai2.png",
-        "category": "kansai"
+        "category": "kansai",
+        "video":"",
+      "popularCategory":""
       },
       {
         "title": "WFB5509PA-3WAC Automatic Waistband Attaching Semi-cylinder Bed Needle Feed Machine for Jeans and Twill",
@@ -248,7 +271,9 @@
           "Finishing machine for quality control and final touches."
         ],
         "image": "https://i.ibb.co.com/QcG7zkh/kansai3.png",
-        "category": "kansai"
+        "category": "kansai",
+        "video":"",
+      "popularCategory":""
       },
       {
         "title": "JJ Series Overlock Machine",
@@ -267,7 +292,9 @@
           "Finishing machine for final quality checks."
         ],
         "image": "https://i.ibb.co.com/6b3rnbP/kansai4.png",
-        "category": "kansai"
+        "category": "kansai",
+        "video":"",
+      "popularCategory":""
       },
       {
         "title": "FBX1106P Waistband Attach Machine",
@@ -286,7 +313,9 @@
           "Pressing machine for ensuring quality finishes."
         ],
         "image": "https://i.ibb.co.com/t8WgvhG/kansai5.png",
-        "category": "kansai"
+        "category": "kansai",
+        "video":"",
+      "popularCategory":"popular"
       },
       {
         "title": "FX4418P Waistband Attach Machine",
@@ -305,7 +334,9 @@
           "Finishing machine for final quality checks."
         ],
         "image": "https://i.ibb.co.com/sHPQrxf/kansai6.png",
-        "category": "kansai"
+        "category": "kansai",
+        "video":"",
+      "popularCategory":""
       },
       {
         "title": "NW8842-1G Flatbed Pocket Facing Machine",
@@ -324,7 +355,9 @@
           "Pressing machine for ensuring quality finishes."
         ],
         "image": "https://i.ibb.co.com/7NLYZvw/kansai8.png",
-        "category": "kansai"
+        "category": "kansai",
+        "video":"",
+      "popularCategory":""
       },
       {
         "title": "NB1433PSSM-ET Smocking & Shearing Machine",
@@ -343,7 +376,9 @@
           "Finishing machine for final quality checks."
         ],
         "image": "https://i.ibb.co.com/c8crkXM/kansai9.png",
-        "category": "kansai"
+        "category": "kansai",
+        "video":"",
+      "popularCategory":""
       },
       {
         "title": "GC 6925A Smart Touch Panel Single Needle Lockstitch Machine",
@@ -362,7 +397,9 @@
           "Pressing machine for smooth seams and finishing."
         ],
         "image": "https://i.ibb.co.com/1nd96k7/t1.png",
-        "category": "typical"
+        "category": "typical",
+        "video":"",
+      "popularCategory":""
       },
       {
         "title": "GC 6880A Direct Drive Single Needle Machine Intelligent Lockstitch with Trimmer",
@@ -381,7 +418,9 @@
           "Pressing machine for quality fabric pressing."
         ],
         "image": "https://i.ibb.co.com/47H9VVs/t2.png",
-        "category": "typical"
+        "category": "typical",
+        "video":"",
+      "popularCategory":""
       },
       {
         "title": "GK 31600YD3 Direct Drive Cylinder Bed Interlock Sewing Machine with Automatic Trimmer and Left Hand Side Fabric Cutter",
@@ -400,7 +439,9 @@
           "Pressing machine for smooth finishing."
         ],
         "image": "https://i.ibb.co.com/Vwd6MP7/t3.png",
-        "category": "typical"
+        "category": "typical",
+        "video":"",
+      "popularCategory":""
       },
       {
         "title": "GK 339 YD3 Direct Drive High-Speed Mini Cylinder Interlock Chainstitch Sewing Machine With Auto Thread Trimmer",
@@ -419,7 +460,9 @@
           "Pressing machine for fabric finishing."
         ],
         "image": "https://i.ibb.co.com/82VdGzz/t4.png",
-        "category": "typical"
+        "category": "typical",
+        "video":"",
+      "popularCategory":""
       },
       {
         "title": "GN 7100 Super High Speed Full Automatic Overlock Sewing Machine",
@@ -438,7 +481,9 @@
           "Pressing machine for smooth seams."
         ],
         "image": "https://i.ibb.co.com/x7k6Ypm/t5.png",
-        "category": "typical"
+        "category": "typical",
+        "video":"",
+      "popularCategory":""
       },
       {
         "title": "GT 9820A Electronic Eyelet Button Holing Machine",
@@ -457,7 +502,9 @@
           "Cutting machine for fabric shaping."
         ],
         "image": "https://i.ibb.co.com/cXWJKzf/t6.png",
-        "category": "typical"
+        "category": "typical",
+        "video":"",
+      "popularCategory":""
       },
       {
         "title": "GT 6430 H High Speed Direct Drive Electronic Lock Stitch Bar-Tacking Machine",
@@ -476,7 +523,9 @@
           "Pressing machine for smooth garment finishing."
         ],
         "image": "https://i.ibb.co.com/Thbbfct/t7.png",
-        "category": "typical"
+        "category": "typical",
+        "video":"",
+      "popularCategory":"popular"
       },
       {
         "title": "TC 6030 G Programmable Electronic Pattern Machine",
@@ -495,7 +544,9 @@
           "Pressing machine for final finishing."
         ],
         "image": "https://i.ibb.co.com/qp7MQTg/t8.png",
-        "category": "typical"
+        "category": "typical",
+        "video":"",
+      "popularCategory":""
       },
       {
         "title": "BK-17 Digitally Controlled Button Feeder Attachment",
@@ -514,7 +565,9 @@
           "Pressing machine for final garment finishing and alignment."
         ],
         "image": "https://i.ibb.co.com/CQ5B2VQ/bks1.png",
-        "category": "bks"
+        "category": "bks",
+        "video":"",
+      "popularCategory":""
       },
       {
         "title": "BS-21 Automatic Button Wrapping & Knotting",
@@ -533,7 +586,9 @@
           "Pressing machine for ensuring proper fabric alignment."
         ],
         "image": "https://i.ibb.co.com/bFVC39K/bks2.png",
-        "category": "bks"
+        "category": "bks",
+        "video":"",
+      "popularCategory":"popular"
       },
       {
         "title": "SA-20 Button Wrapping and Bonding Machine",
@@ -552,7 +607,9 @@
           "Pressing machine for final garment smoothing."
         ],
         "image": "https://i.ibb.co.com/qCgMPj6/bks3.png",
-        "category": "bks"
+        "category": "bks",
+        "video":"",
+      "popularCategory":""
       },
       {
         "title": "SA-3100A Straight & Bias Fabric Rolling Machine",
@@ -571,7 +628,9 @@
           "Pressing machine for final smoothing of rolled fabric."
         ],
         "image": "https://i.ibb.co.com/fxmgqkQ/bks4.png",
-        "category": "bks"
+        "category": "bks",
+        "video":"",
+      "popularCategory":""
       },
       {
         "title": "SA-2000A Computer Full Automatic Cutting (Slitter) Machine",
@@ -590,7 +649,9 @@
           "Pressing machine for ensuring smooth fabric layout."
         ],
         "image": "https://i.ibb.co.com/sg554vy/bks5.png",
-        "category": "bks"
+        "category": "bks",
+        "video":"",
+      "popularCategory":""
       },
       {
         "title": "SA-8000 Automatic Aligning & EDGE Stitch of Tubular Form Fabric",
@@ -609,7 +670,9 @@
           "Pressing machine for smoothing and alignment."
         ],
         "image": "https://i.ibb.co.com/JsWkrsj/bks6.png",
-        "category": "bks"
+        "category": "bks",
+        "video":"",
+      "popularCategory":""
       },
       {
         "title": "X-SERIES Jacket and Shirt Fusing Machines Return Version: With Return Belt",
@@ -628,7 +691,9 @@
           "Pressing machine for finalizing garment finishes."
         ],
         "image": "https://i.ibb.co.com/K7kxdx9/m1.png",
-        "category": "martin"
+        "category": "martin",
+        "video":"",
+      "popularCategory":""
       },
       {
         "title": "OT-SERIES Jacket and Shirt Fusing Machines Equipped With Return Belt",
@@ -647,7 +712,9 @@
           "Pressing machine for ensuring final garment quality."
         ],
         "image": "https://i.ibb.co.com/0XSSVxg/m2.png",
-        "category": "martin"
+        "category": "martin",
+        "video":"",
+      "popularCategory":""
       },
       {
         "title": "Feeding Belt (FB) Loading Extension & Feeding Belts",
@@ -666,7 +733,9 @@
           "Pressing machine for achieving quality garment finishes."
         ],
         "image": "https://i.ibb.co.com/qxSB7Ph/m3.png",
-        "category": "martin"
+        "category": "martin",
+        "video":"",
+      "popularCategory":""
       },
       {
         "title": "HN-780 Hashima Brand Needle Detector Machine",
@@ -685,7 +754,9 @@
           "Pressing machine for finalizing garment finishes."
         ],
         "image": "https://i.ibb.co.com/NrPY7yk/f1.png",
-        "category": "focus"
+        "category": "focus",
+        "video":"",
+      "popularCategory":""
       },
       {
         "title": "HP-900LFS Hashima Brand Fusing Machine",
@@ -704,7 +775,9 @@
           "Pressing machine for final garment quality finishing."
         ],
         "image": "https://i.ibb.co.com/NTfv867/f2.png",
-        "category": "focus"
+        "category": "focus",
+        "video":"",
+      "popularCategory":"popular"
       },
       {
         "title": "Elastic Joint Machine",
@@ -723,7 +796,9 @@
           "Pressing machine for finalizing garment quality."
         ],
         "image": "https://i.ibb.co.com/Vvwk1HC/f3.png",
-        "category": "focus"
+        "category": "focus",
+        "video":"",
+      "popularCategory":""
       },
       {
         "title": "KOSTAR BRAND MODEL SG-555H Fully Automatic Rivet Attaching Machine",
@@ -742,7 +817,9 @@
           "Pressing machine for finalizing garment quality."
         ],
         "image": "https://i.ibb.co.com/WthZwDd/k1.png",
-        "category": "kostar"
+        "category": "kostar",
+        "video":"",
+      "popularCategory":""
       },
       {
         "title": "KOSTAR BRAND MODEL SG-500H Fully Automatic Tack Button Attaching Machine",
@@ -761,7 +838,9 @@
           "Pressing machine for high-quality garment finishing."
         ],
         "image": "https://i.ibb.co.com/mF0rzyh/k2.png",
-        "category": "kostar"
+        "category": "kostar",
+        "video":"",
+      "popularCategory":""
       },
       {
         "title": "TBC-52RT Automatic Velcro Cutter",
@@ -780,7 +859,9 @@
           "Pressing machine for garment finishing and quality control."
         ],
         "image": "https://i.ibb.co.com/k2XjTjw/c1.png",
-        "category": "cutex"
+        "category": "cutex",
+        "video":"",
+      "popularCategory":""
       },
       {
         "title": "TBC-50S Automatic Printed Label Cutter",
@@ -799,7 +880,9 @@
           "Pressing machine for final garment finishing."
         ],
         "image": "https://i.ibb.co.com/6YK5q4j/c2.png",
-        "category": "cutex"
+        "category": "cutex",
+        "video":"",
+      "popularCategory":""
       },
       {
         "title": "TBC-50SH Automatic Woven Label Cutter",
@@ -818,7 +901,9 @@
           "Pressing machine for finishing garment quality."
         ],
         "image": "https://i.ibb.co.com/gZ74r7V/c3.png",
-        "category": "cutex"
+        "category": "cutex",
+        "video":"",
+      "popularCategory":""
       },
       {
         "title": "TUC-40S Ultrasonic Label Cutter",
@@ -837,7 +922,9 @@
           "Pressing machine for garment finishing processes."
         ],
         "image": "https://i.ibb.co.com/9yxKZ66/c4.png",
-        "category": "cutex"
+        "category": "cutex",
+        "video":"",
+      "popularCategory":""
       },
       {
         "title": "AZ7000SD-8 Overlock/Safety Stitch Machine",
@@ -856,7 +943,9 @@
           "Pressing machine for garment finishing."
         ],
         "image": "https://i.ibb.co.com/QPhqw0c/y1.png",
-        "category": "yamato"
+        "category": "yamato",
+        "video":"",
+      "popularCategory":""
       },
       {
         "title": "AZF8620SD-8 6 Thread Overlock Machine for Denim, with Variable Top & Bottom Feeder",
@@ -875,7 +964,9 @@
           "Pressing machine for garment finishing."
         ],
         "image": "https://i.ibb.co.com/6m8xjf9/y2.png",
-        "category": "yamato"
+        "category": "yamato",
+        "video":"",
+      "popularCategory":""
       },
       {
         "title": "AZ8451-45DF Cylinder Bed Overlock Machine for Attaching Elastic Tape",
@@ -894,7 +985,9 @@
           "Pressing machine for garment finishing."
         ],
         "image": "https://i.ibb.co.com/6m8xjf9/y2.png",
-        "category": "yamato"
+        "category": "yamato",
+        "video":"",
+      "popularCategory":""
       },
       {
         "title": "VC2713G-8F 3(2) Needle 5(4) Thread Cylinder Bed Interlock Stitch Machine For Covering",
@@ -913,7 +1006,9 @@
           "Pressing machine for garment finishing."
         ],
         "image": "https://i.ibb.co.com/6mfg07B/y4.png",
-        "category": "yamato"
+        "category": "yamato",
+        "video":"",
+      "popularCategory":""
       },
       {
         "title": "VE2713-156S-2-K4N-8F/UT High Speed Three Needle Five Thread Cylinder Bed Machine for Plain Seaming With Active Thread Control And Micro Adjustment",
@@ -932,7 +1027,9 @@
           "Pressing machine for garment finishing."
         ],
         "image": "https://i.ibb.co.com/82hYZk7/y5.png",
-        "category": "yamato"
+        "category": "yamato",
+        "video":"",
+      "popularCategory":""
       },
       {
         "title": "FD-62SD-12HS 4 Needle Flat-Seamer Feed-off-the-ARM Machine",
@@ -951,7 +1048,9 @@
           "Pressing machine for garment finishing."
         ],
         "image": "https://i.ibb.co.com/N1xY0pm/y7.png",
-        "category": "yamato"
+        "category": "yamato",
+        "video":"",
+      "popularCategory":""
       },
       {
         "title": "VF-2510-188M/K1 FL3/HF-30MM High Speed Flat Bed 3 Needle Double Chain Stitch Machine",
@@ -970,7 +1069,9 @@
           "Pressing machine for garment finishing."
         ],
         "image": "https://i.ibb.co.com/PZZb65M/y8.png",
-        "category": "yamato"
+        "category": "yamato",
+        "video":"",
+      "popularCategory":""
       },
       {
         "title": "VG-2735PR-156M-8F/UT-A44 2/3 Needle Interlock Stitch Machine with Rear Puller & Right Fabric Trimmer for Attaching Pre-Closed Elastic Band to Waist of Mens Brief",
@@ -989,7 +1090,9 @@
           "Pressing machine for garment finishing."
         ],
         "image": "https://i.ibb.co.com/12ZRQS0/y9.png",
-        "category": "yamato"
+        "category": "yamato",
+        "video":"",
+      "popularCategory":""
       },
       {
         "title": "Veit Brand Industrial Ironing Tables",
@@ -1008,7 +1111,9 @@
           "Heat control for optimal performance."
         ],
         "image": "https://i.ibb.co.com/cDqYkf2/v1.png",
-        "category": "veit"
+        "category": "veit",
+        "video":"",
+      "popularCategory":""
       },
       {
         "title": "Veit Brand Pants Finisher / Blower Topper VEIT 8741",
@@ -1027,7 +1132,9 @@
           "Sturdy design for industrial use."
         ],
         "image": "https://i.ibb.co.com/g3Mr8f1/v2.png",
-        "category": "veit"
+        "category": "veit",
+        "video":"",
+      "popularCategory":""
       },
       {
         "title": "Veit Brand VEIT 8410 Knitwear Finisher",
@@ -1046,7 +1153,9 @@
           "Durable design for industrial use."
         ],
         "image": "https://i.ibb.co.com/tqZQP12/v3.png",
-        "category": "veit"
+        "category": "veit",
+        "video":"",
+      "popularCategory":""
       },
       {
         "title": "Veit Brand Industrial Steam Irons",
@@ -1065,7 +1174,9 @@
           "Industrial-grade durability for large production."
         ],
         "image": "https://i.ibb.co.com/zNDn5Yf/v4.png",
-        "category": "veit"
+        "category": "veit",
+        "video":"",
+      "popularCategory":""
       },
       {
         "title": "Veit Brand Bagging Machines",
@@ -1084,7 +1195,9 @@
           "Durable construction for industrial usage."
         ],
         "image": "https://i.ibb.co.com/VD4QfV1/v5.png",
-        "category": "veit"
+        "category": "veit",
+        "video":"",
+      "popularCategory":""
       },
       {
         "title": "Veit Brand Fusing Machine FX Diamond 1000 / 1400 / 1400L / 1600",
@@ -1103,7 +1216,9 @@
           "Durable design for continuous use."
         ],
         "image": "https://i.ibb.co.com/yXvHR1g/v6.png",
-        "category": "veit"
+        "category": "veit",
+        "video":"",
+      "popularCategory":""
       },
       {
         "title": "EASTMAN BRAND FABRIC SPREADING MACHINE",
@@ -1122,7 +1237,9 @@
           "Durable design for long-term industrial use."
         ],
         "image": "https://i.ibb.co.com/TgMZVVc/e1.png",
-        "category": "eastman"
+        "category": "eastman",
+        "video":"",
+      "popularCategory":""
       },
       {
         "title": "EASTMAN BRAND FABRIC END CUTTING MACHINE",
@@ -1141,7 +1258,9 @@
           "Built for durability and continuous use."
         ],
         "image": "https://i.ibb.co.com/R62vxnD/e2.png",
-        "category": "eastman"
+        "category": "eastman",
+        "video":"",
+      "popularCategory":""
       },
       {
         "title": "MANUAL CUTTING MACHINE",
@@ -1160,7 +1279,9 @@
           "Durable design for long-term use."
         ],
         "image": "https://i.ibb.co.com/9G2qtwP/e3.png",
-        "category": "eastman"
+        "category": "eastman",
+        "video":"",
+      "popularCategory":""
       },
       {
         "title": "EASTMAN BRAND KNIFE MACHINE",
@@ -1179,7 +1300,9 @@
           "Durable and built for continuous operation."
         ],
         "image": "https://i.ibb.co.com/CB64jxG/e4.png",
-        "category": "eastman"
+        "category": "eastman",
+        "video":"",
+      "popularCategory":""
       },
       {
         "title": "Vertical Type Multi-Fuel & Biomass Boiler",
@@ -1198,7 +1321,9 @@
           "Durable design for long-term operation."
         ],
         "image": "https://i.ibb.co.com/8KftWg6/s1.png",
-        "category": "samwoo_boiler"
+        "category": "samwoo_boiler",
+        "video":"https://youtu.be/VIlya8sEW2g?si=vr0iIoLUAYbvcfkj",
+      "popularCategory":""
       },
       {
         "title": "Multifuel & Biomass Duel Vertical Type Boiler",
@@ -1217,7 +1342,9 @@
           "Reliable and long-lasting industrial use."
         ],
         "image": "https://i.ibb.co.com/W5Vw1J5/s2.png",
-        "category": "samwoo_boiler"
+        "category": "samwoo_boiler",
+         "video":"",
+      "popularCategory":"popular"
       },
       {
         "title": "Multi-Fuel & Biomass Boiler (Horizontal Dual Type)",
@@ -1236,7 +1363,9 @@
           "Durable and reliable for long-term use."
         ],
         "image": "https://i.ibb.co.com/m4fZ0mQ/s3.png",
-        "category": "samwoo_boiler"
+        "category": "samwoo_boiler",
+        "video":"https://youtu.be/FNA_O_3ipps?si=FL40aGdEY2PDg3cK",
+      "popularCategory":""
       },
       {
         "title": "Samwoo Boiler Automatic Loading System",
@@ -1255,7 +1384,9 @@
           "Compatible with various Samwoo boiler models."
         ],
         "image": "https://i.ibb.co.com/VLKgx9r/s4.png",
-        "category": "samwoo_boiler"
+        "category": "samwoo_boiler",
+         "video":"https://youtu.be/FOKV8t_vnk4?si=i6gPRc_cdak7yc71",
+      "popularCategory":""
       },
       {
         "title": "Vertical Type Duel Fuel Boiler",
@@ -1274,7 +1405,9 @@
           "Durable and efficient for long-term use."
         ],
         "image": "https://i.ibb.co.com/QCMmWY7/s5.png",
-        "category": "samwoo_boiler"
+        "category": "samwoo_boiler",
+         "video":"",
+      "popularCategory":""
       },
       {
         "title": "Horizontal Type Duel/Fuel Boiler",
@@ -1293,7 +1426,9 @@
           "Built for continuous industrial operation."
         ],
         "image": "https://i.ibb.co.com/gV3Q7tr/s6.png",
-        "category": "samwoo_boiler"
+        "category": "samwoo_boiler",
+         "video":"",
+      "popularCategory":""
       }
   ]
   
